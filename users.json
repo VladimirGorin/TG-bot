@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1454688178,
+		"nick": "PythonPygame",
+		"text": "2133",
+		"status": "Пользовотель",
+		"balance": 360000,
+		"bank": 140100,
+		"bitkoin": 1,
+		"bitkoinUser": 11000,
+		"gameGamed": 0,
+		"car": "Гироскутер",
+		"bicnec": "У вас нету бизнеса",
+		"ferm": "TI-Miner",
+		"userFermActive": true
+	},
+	{
+		"id": 5073239603,
+		"nick": "MatviiEdit",
+		"text": "Чо",
+		"status": "Пользовотель",
+		"balance": 5000,
+		"bank": 0,
+		"bitkoin": 0,
+		"bitkoinUser": 0,
+		"gameGamed": 0,
+		"car": "У вас нету машины",
+		"bicnec": "У вас нету бизнеса",
+		"ferm": "У вас нету фермы",
+		"userFermActive": false
+	},
+	{
+		"id": 2094282398,
+		"nick": "SquareYT",
+		"text": "Джуди",
+		"status": "Пользовотель",
+		"balance": 4804,
+		"bank": 0,
+		"bitkoin": 0,
+		"bitkoinUser": 0,
+		"gameGamed": 0,
+		"car": "Самокат",
+		"bicnec": "У вас нету бизнеса",
+		"ferm": "У вас нету фермы",
+		"userFermActive": false
+	}
+]
